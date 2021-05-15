@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AnimeGAN
 DCGAN + WGAN implementation on anime faces
 =======
@@ -32,4 +31,3 @@ For your own data put your 64x64 images to the "data" folder in the root directo
 As you can see result images is strange but one probably can easy train such GAN with he's home PC. I think problem is in weak nets. See [this](https://arxiv.org/abs/1708.05509).
 
 [Trained model](https://drive.google.com/file/d/1N8OzDkiNDfdK2CuSXvGOWHMvewADj_8U/view?usp=sharing)
->>>>>>> 866d0cf (v1.0 commit)
