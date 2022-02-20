@@ -30,4 +30,4 @@ For your own data put your 64x64 images to the "data" folder in the root directo
 
 As you can see result images is strange but one probably can easy train such GAN with he's home PC. I think problem is in weak nets. See [this](https://arxiv.org/abs/1708.05509).
 
-[Trained model](https://drive.google.com/file/d/1nr9Z2nJNDOjPpYso4G3Z_CFmRHV_L947/view?usp=sharing)
+[Trained model](https://drive.google.com/drive/folders/1zAQ7ES28w-Zh7e0o8eoNreOKblb6VeBO?usp=sharing)
